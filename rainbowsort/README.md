@@ -1,5 +1,7 @@
 # 🌈 Rainbow Sort
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 **Rainbow Sort** adalah game puzzle *Water Sort* yang gratis dan open source. Game ini dibuat untuk membantu anak-anak memahami konsep **sorting (mengurutkan/mengelompokkan)** lewat tampilan yang berwarna dan menyenangkan.
 
 Tujuannya sederhana: tuang cairan berwarna antar tabung sampai setiap tabung hanya berisi **satu warna**. Sambil bermain, anak melatih berpikir analitis, merencanakan langkah, dan memecahkan masalah.
@@ -154,4 +156,4 @@ Proyek ini open source dan kontribusi sangat diterima, baik berupa isu, ide leve
 
 ## 📄 Lisensi
 
-Proyek ini open source dan gratis digunakan. Tambahkan berkas `LICENSE` (misalnya MIT) untuk menetapkan lisensi resminya.
+Didistribusikan di bawah lisensi MIT. Lihat file [`LICENSE`](LICENSE) untuk informasi selengkapnya.
